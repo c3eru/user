@@ -111,7 +111,7 @@ async def kang(args):
         f_name = user.first_name
         packname = f"Sticker_u{u_id}_Ke{pack}"
         custom_packnick = f"{custompack}" or f"{f_name} Sticker Pack"
-        packnick = f"{custom_packnick}"
+        packnick = f"mobxcungry"
         cmd = "/newpack"
         file = io.BytesIO()
 
